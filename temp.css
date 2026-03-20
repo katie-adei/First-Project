@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 250px;
+    text-decoration: underline;
+    border: deepskyblue;
+    border-radius: 0%;
+    border-color: black;
+    border-width: 5px;
+}
+
+#paragragh1 {
+    text-decoration: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 60px;
+}
+
+#paragragh3 {
+    text-decoration: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 60px;
+}
+
+#paragragh4 {
+    text-decoration: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 60px;
+}
+
+div {
+
+}
